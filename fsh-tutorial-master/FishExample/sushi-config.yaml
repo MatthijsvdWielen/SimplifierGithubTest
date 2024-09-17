@@ -1,0 +1,9 @@
+canonical: https://matthijs.test/fhir/pipeline
+fhirVersion: 4.0.1
+FSHOnly: true
+applyExtensionMetadataToRoot: false
+id: MatthijsPipelineTest
+name: MatthijsPipelineTest
+status: active
+dependencies:
+  hl7.fhir.r4.core: 4.0.1
